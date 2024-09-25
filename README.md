@@ -54,7 +54,7 @@ bersangkutan.
 
    ![Screenshot from 2024-09-25 20-40-05](https://github.com/user-attachments/assets/d2377855-14d1-4f5b-85f0-39e21b2560c6)
 
-  ![Screenshot from 2024-09-25 20-49-06](https://github.com/user-attachments/assets/fdaedb1f-72a8-4d7d-a072-841cf5fa9ca5)
+ ![Screenshot from 2024-09-26 00-09-58](https://github.com/user-attachments/assets/2bb4db30-212f-4f9d-bdbd-eb17d5b7fe96)
 
 
 c. Jalankan instruksi subtitute user, kemudian keluar dengan perintah exit sebagai berikut:
