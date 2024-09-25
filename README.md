@@ -1,27 +1,38 @@
 # Nensi-Fitriyanti-09011182328113_Sistem-Operasi
-Praktikum 5 Job Control
-Nama : Nensi Fitriyanti
-Kelas : SK3B
-NIM : 09011182328113
+# PRAKTIKUM 5 JOB CONTROL
 
-Tugas
-1. Eksekusi seluruh profile yang ada :
-   a. Edit file /etc/profile dan tampilkan pesan sebagai berikut : echo "Profile dari /etc/profile"
+## Nama : Nensi Fitriyanti
+## Kelas : SK3B
+## NIM : 09011182328113
+
+### Tugas
+
+## **1. Eksekusi seluruh profile yang ada :**
+   
+a. Edit file profile /etc/profile dan tampilkan pesan sebagai berikut :
+**echo “Profile dari /etc/profile”**
    
    ![Screenshot from 2024-09-25 19-21-50](https://github.com/user-attachments/assets/4624eab4-01db-4f92-9c37-685329f74e61)
 
    ![Screenshot from 2024-09-25 19-31-38](https://github.com/user-attachments/assets/7f76ed2d-bc22-4c81-b1c3-c179a1c86274)
 
-   b. Asumsi nama anda stD02001, maka edit semua profile yang ada yaitu :
-   /home/stD02001/.bash_profile
-   /home/stD02001/.bash_login
-   /home/stD02001/.profile
-   /home/stD02001/.bashrc
-   Ganti nama/home/mahasiswa dengan nama anda sendiri. Pada setiap file tersebut, cantumkan instruksi echo, misalnya pada
-   /home/mahasiswa/.bash_profile : echo "Profile dari .bash_profile" Lakukan hal yang sama untuk file lainnya, sesuaikan
-   tampilan dengan nama file yang bersangkutan.
+b. Asumsi nama anda stD02001, maka edit semua profile yang ada yaitu :
 
-   /home/stD02001/.bash
+/home/stD02001/.bash_profile
+
+/home/. stD02001/.bash_login
+
+/home/mahasiswa/.profile
+
+/home/mahasiswa/.bashrc
+
+Ganti nama /home/mahasiswa dengan nama anda sendiri. Pada setiap
+file tersebut, cantumkan instruksi echo, misalnya pada /home/ mahasiswa/.bash_profile :
+**echo “Profile dari .bash_profile”**
+Lakukan hal yang sama untuk file lainnya, sesuaikan tampilan dengan nama file yang
+bersangkutan.
+
+**/home/stD02001/.bash_profile**
    
    ![Screenshot from 2024-09-25 20-06-53](https://github.com/user-attachments/assets/39ff6d2c-559d-41ed-8dcc-ecf3cba3ba42)
 
@@ -97,7 +108,7 @@ clear
 
 ![Screenshot from 2024-09-25 21-51-16](https://github.com/user-attachments/assets/b7261106-9d32-4751-a698-fe5178acc36b)
 
-## **4. Bash script*
+## **4. Bash script**
 a. Buat 3 buah script p1.sh, p2.sh, p3.sh dengan isi masing-masing :
 
 **p1.sh**
