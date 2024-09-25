@@ -48,13 +48,13 @@ bersangkutan.
 
    ![Screenshot from 2024-09-25 20-14-13](https://github.com/user-attachments/assets/8750d3c0-1c3e-4538-890c-363d3afdaa48)
 
-  ![Screenshot from 2024-09-25 20-38-13](https://github.com/user-attachments/assets/461203e1-c58c-4593-9710-bfa8c25dccb9)
+ ![Screenshot from 2024-09-26 00-09-58](https://github.com/user-attachments/assets/2bb4db30-212f-4f9d-bdbd-eb17d5b7fe96)
 
 **/home/mahasiswa/.bashrc** 
 
    ![Screenshot from 2024-09-25 20-40-05](https://github.com/user-attachments/assets/d2377855-14d1-4f5b-85f0-39e21b2560c6)
 
- ![Screenshot from 2024-09-26 00-09-58](https://github.com/user-attachments/assets/2bb4db30-212f-4f9d-bdbd-eb17d5b7fe96)
+ ![Screenshot from 2024-09-25 20-39-39](https://github.com/user-attachments/assets/f0f8ce9d-1034-4799-ae71-198d7c5a7d73)
 
 
 c. Jalankan instruksi subtitute user, kemudian keluar dengan perintah exit sebagai berikut:
